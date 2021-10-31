@@ -1,2 +1,2 @@
-# C
-C programs
+# C/C++
+C/C++ programs
